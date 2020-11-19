@@ -17,7 +17,7 @@ This capstone project for General Assembly will be a clone and improvement for R
 Original Site
 https://www.rciracing.com/support.html
 
-![RCI](/planning/rcihome)
+![RCI](/planning/rcihome.png)
 
 ## Links to Materials
 
