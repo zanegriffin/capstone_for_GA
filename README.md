@@ -44,21 +44,23 @@ PostMVP
 
 ## MVP
 
-| MVP           | Time Hr. | Actual Time |
-| Components             | 8hr | |
-|   Base CSS               | 1hr | |
-| Mobile Layout          | 5hr | |
-| Desktop Layout         | 5hr | |
-| Styled Design          | 8hr | |
-| Animations             | 4hr | |
-| Total| 31hr | |
+| MVP | Time Hr. | Actual Time |
+| --- | :---: |  :---: | 
+| Components | 8hr | 0 |
+| Base CSS | 1hr | 0 |
+| Mobile Layout | 5hr | 0 |
+| Desktop Layout | 5hr | 0 |
+| Styled Design | 8hr | 0 |
+| Animations | 4hr | 0 |
+| Total| 31hr | 0 |
 
 ## Post MVP
 
 | Post MVP | Time Hr. | Actual Time |
-| Login/Auth | 8hr | |
-| SEO | 3hr | |
-| Total | 11hr | |
+| --- | :---: |  :---: |
+| Login/Auth | 8hr | 0 |
+| SEO | 3hr | 0 |
+| Total | 11hr | 0 |
 
 
 ## Additional Libraries
