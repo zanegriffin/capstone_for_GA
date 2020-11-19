@@ -18,6 +18,8 @@ Original Site
 https://www.rciracing.com/support.html
 
 ![RCI](/planning/rcihome.png)
+![RCI](/planning/rciproducts.png)
+![RCI](/planning/rcisupport.png)
 
 ## Links to Materials
 
