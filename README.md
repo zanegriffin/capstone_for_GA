@@ -18,7 +18,7 @@ See the site [here](https://rciracing.netlify.app/).
 
 ## Project Description
 
-This capstone project for General Assembly will be a clone and improvement for Racer's Choice Inc. It will be built on React with React animation libraries for an improved modern experience and an api to store product images. 
+This capstone project for General Assembly will be a clone and improvement for Racer's Choice Inc. It will be built on React with React animation libraries for an improved modern experience and an api to store product images/data. Api is deployed through Contentful.
 
 Original Site
 https://www.rciracing.com/support.html
