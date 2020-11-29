@@ -71,6 +71,8 @@ PostMVP
 
 ## Additional Libraries
 
-React Animation Libraries: Scroll Animation, Framer
+React Animation Library: react-reveal
+
 Bootstrap
+
 Fontawesome
