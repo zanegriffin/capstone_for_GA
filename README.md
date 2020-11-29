@@ -6,8 +6,14 @@
 
 Code
 
+[Frontend](https://github.com/zanegriffin/RCi_front)
+
+Backend is made with headless CMS. Contentful.
+
 
 Deployed
+
+See the site [here](https://rciracing.netlify.app/).
 
 
 ## Project Description
